@@ -1,4 +1,4 @@
-# Ask Your PDF 📄
+#HIOLLAMA_V01 # Ask Your PDF 📄
 
 A simple prototype to **chat with your own PDF files** using [Ollama](https://ollama.com/) and [LlamaIndex](https://www.llamaindex.ai/).
 
